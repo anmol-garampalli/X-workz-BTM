@@ -1,0 +1,16 @@
+package com.xowrkz.crudoperations.beach;
+
+public class Crud {
+	public Crud(){
+		private String beachname;
+		
+		
+	}
+	
+	public Crud() {
+		
+		
+		
+		
+	}
+}

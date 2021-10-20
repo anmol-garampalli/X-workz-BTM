@@ -1,0 +1,10 @@
+package com.xorkz.array.methods;
+
+public class Arraystarter {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

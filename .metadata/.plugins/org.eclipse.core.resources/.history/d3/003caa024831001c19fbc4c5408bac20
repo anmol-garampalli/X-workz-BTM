@@ -1,0 +1,10 @@
+package com.xworkz.array.pincodes;
+
+public class Pancardstarter {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

@@ -1,0 +1,30 @@
+package com.xworkz.javacore;
+
+public class Javacore {
+	
+	public static void main(String args[]) {
+
+	String name = "Xworkz";
+	boolean contain=name.contains("nags");
+	System.out.println("contains"+contain);
+	
+	String branch = new String("KENGERI");
+	boolean containsGE=branch.contains("RI");
+	System.out.println(branch.contains("RI"));
+	
+	char[] chars= {'N','A','G','S'};
+	String convertedString=String.copyValueOf(chars);
+	System.out.println(convertedString);
+	
+	String nags="Naganna";
+	String nags2="Nagappa";
+	
+	boolean same=Naganna.equals.(Nagappa);
+	System.out.println("SAME" +same);
+
+
+
+
+
+}
+}

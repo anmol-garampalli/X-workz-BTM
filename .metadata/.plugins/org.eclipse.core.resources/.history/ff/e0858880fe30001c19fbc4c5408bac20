@@ -1,0 +1,14 @@
+package com.xworkz.array.aadhar;
+
+public class Aadharstarter {
+
+	public static void main(String[] args) {
+		long anmol=677152611620L;
+		long anmol2=677152611621L;
+		long anmol3=677152611622L;
+		long anmol4=677152611623L;
+		
+		System.out.println(anmol2);
+	}
+
+}

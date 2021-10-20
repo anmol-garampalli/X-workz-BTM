@@ -1,0 +1,16 @@
+package com.xowrkz.crudoperations;
+
+public class Crudrunner {
+
+	public static void main(String[] args) {
+	
+		Beachname beachname = new beachname();
+		
+		
+		
+		
+		
+		
+		
+	}
+}

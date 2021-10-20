@@ -1,0 +1,20 @@
+package com.xowrkz.crudoperations.beach;
+
+public class Crud {
+	String getCountryname;
+	private String beachname;
+
+	public Crud() {
+		System.out.println("Invoked crud constructor");
+		private String Countryname = "INDIA";
+	}
+
+	public Crud(String beachname) {
+
+		this.beachname = beachname;
+	}
+
+	public String getCountryname() {
+		return getCountryname();
+	}
+}
