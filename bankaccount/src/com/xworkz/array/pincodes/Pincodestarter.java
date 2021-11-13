@@ -49,7 +49,7 @@ public class Pincodestarter {
 		
 		long[] marksinfo= {markscard1,markscard2,789456123L,markscard3,markscard4,markscard5,markscard6,123415263L,markscard8,markscard7,markscard9,markscard10};
 		System.out.println(markscard1);
-		for( int i=0;i<marksinfo.length;				i++) {
+		for( int i=0;i<marksinfo.length;i++) {
 			System.out.println(i);  //unresolved compilation problem
 			System.out.println(marksinfo);
 		}
