@@ -6,10 +6,12 @@ public class Hospital {
 	
 	public String admitPatient() {
 		System.out.println("Invoked Admit Rule");
+	
 		return "Patient cannot be Admitted";
 	}
 	public String dischargePatient() {
 		System.out.println("Invoked Discharge Rule");
+		
 		return "The patient cannot be discharged until all formalities are completed";
 	}
 	public Hospital(String name, String location) {
