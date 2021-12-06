@@ -1,0 +1,138 @@
+package com.xworkz.collections.assignment;
+
+import java.util.ArrayList;
+import java.util.Collection;
+
+public class MoviesCollection {
+
+	public static void main(String[] args) {
+		
+		String movie1 = "Inception";
+		String movie2 = "The Shawshank Redemption (1994)";
+		String movie3 = "The Godfather (1972)";
+		String movie4 = "The Godfather: Part II (1974)";
+		String movie5 = "The Dark Knight (2008)";
+		String movie6 = "Angry Men (1957)";
+		String movie7 = "Schindler's List (1993)";
+		String movie8 = "The Lord of the Rings: The Return of the King (2003)";
+		String movie9 = "Pulp Fiction (1994)";
+		String movie10 = "The Good, the Bad and the Ugly (1966)";
+		String movie11 = "10. The Lord of the Rings: The Fellowship of the Ring (2001)";
+		String movie12 = "Fight Club (1999)";
+		String movie13 = " Forrest Gump (1994)";
+		String movie14 = ". Inception (2010)";
+		String movie15 = "The Lord of the Rings: The Two Towers (2002)";
+		String movie16 = "Star Wars: Episode V - The Empire Strikes Back (1980)";
+		String movie17 = "The Matrix (1999)";
+		String movie18 = "Goodfellas (1990)";
+		String movie19 = "One Flew Over the Cuckoo's Nest (1975)";
+		String movie20 = "Seven Samurai (1954)";
+		String movie21 = "Seven (1995)";
+		String movie22 = "The Silence of the Lambs (1991)";
+		String movie23 = "City of God (2002)";
+		String movie24 = " Life Is Beautiful (1997)";
+		String movie25 = "24. It's a Wonderful Life (1946)";
+		String movie26 = "Saving Private Ryan (1998)";
+		String movie27 = "Star Wars: Episode IV - A New Hope (1977)";
+		String movie28 = "Interstellar (2014)";
+		String movie29 = "Spirited Away (2001)";
+		String movie30 = "The Green Mile (1999)";
+		String movie31 = "30. Parasite (2019)";
+		String movie32 = " Leon (1994)";
+		String movie33 = "Harakiri (1962)";
+		String movie34 = " The Pianist (2002)";
+		String movie35 = "Terminator 2: Judgment Day (1991)";
+		String movie36 = "35. Back to the Future (1985)";
+		String movie37 = "36. The Usual Suspects (1995)";
+		String movie38 = " Psycho (1960)";
+		String movie39 = " The Lion King (1994)";
+		String movie40 = "39. Modern Times (1936)";
+		String movie41 = "40. American History X (1998)";
+		String movie42 = "41. Grave of the Fireflies (1988)";
+		String movie43 = "42. City Lights (1931)";
+		String movie44 = "	43. Whiplash (2014)";
+		String movie45 = "	44. Gladiator (2000)";
+		String movie46 = "45. The Departed (2006)";
+		String movie47 = "6. Untouchable (2011)";
+		String movie48 = ". The Prestige (2006)";
+		String movie49 = "48. Casablanca (1942)";
+		String movie50 = "49. Once Upon a Time in the West (1968)";
+		String movie51 = "Rear Window (1954)";
+		String movie52 = " Cinema Paradiso (1988)";
+		String movie53 = "52. Alien (1979)";
+		String movie54 = "53. Apocalypse Now (1979)";
+		String movie55 = "54. Memento (2000)";
+		String movie56 = "Raiders of the Lost Ark (1981)";
+		String movie57 = "56. The Great Dictator (1940)";
+		String movie58 = "57. The Lives of Others (2006)";
+		String movie59 = " Django Unchained (2012)";
+//		String movie60 = "59. Paths of Glory (1957)";
+
+		Collection collection = new ArrayList();
+
+		collection.add(movie1);
+		collection.add(movie2);
+		collection.add(movie3);
+		collection.add(movie4);
+		collection.add(movie5);
+		collection.add(movie6);
+		collection.add(movie7);
+		collection.add(movie8);
+		collection.add(movie9);
+		collection.add(movie10);
+		collection.add(movie11);
+		collection.add(movie12);
+		collection.add(movie13);
+		collection.add(movie14);
+		collection.add(movie15);
+		collection.add(movie16);
+		collection.add(movie17);
+		collection.add(movie18);
+		collection.add(movie19);
+		collection.add(movie20);
+		collection.add(movie21);
+		collection.add(movie22);
+		collection.add(movie23);
+		collection.add(movie24);
+		collection.add(movie25);
+		collection.add(movie26);
+		collection.add(movie27);
+		collection.add(movie28);
+		collection.add(movie29);
+		collection.add(movie30);
+		collection.add(movie31);
+		collection.add(movie32);
+		collection.add(movie33);
+		collection.add(movie34);
+		collection.add(movie35);
+		collection.add(movie36);
+		collection.add(movie37);
+		collection.add(movie38);
+		collection.add(movie39);
+		collection.add(movie40);
+		collection.add(movie40);
+		collection.add(movie41);
+		collection.add(movie42);
+		collection.add(movie43);
+		collection.add(movie44);
+		collection.add(movie45);
+		collection.add(movie46);
+		collection.add(movie47);
+		collection.add(movie48);
+		collection.add(movie49);
+		collection.add(movie50);
+		collection.add(movie51);
+		collection.add(movie52);
+		collection.add(movie53);
+		collection.add(movie54);
+		collection.add(movie55);
+		collection.add(movie56);
+		collection.add(movie57);
+		collection.add(movie58);
+		collection.add(movie59);
+//		collection.add(movie60);
+				
+		System.out.println(collection.size());
+	}
+
+}
